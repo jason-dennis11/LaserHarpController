@@ -1,5 +1,5 @@
 #  Laser Harp Controller 
- Play music using just by waving your hand! A laser harp using 5V laser diodes and a PocketBeagle. 
+A laser harp using 5V laser diodes and a PocketBeagle. Play musical notes just by waving your hand!
 ## Hackster Page 
 https://www.hackster.io/308238/laser-harp-controller-7187ea
 
@@ -20,7 +20,7 @@ Finally, Place the speaker on top and input breadboards inside build.
 4)	Place under desired laser(s)
 5)	Listen to beautiful notes!
 
-##License   
+## License   
 Copyright 2019 Jason Dennis
 
 
